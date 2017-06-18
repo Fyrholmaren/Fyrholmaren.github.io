@@ -1,8 +1,4 @@
 
-.box {
-
-}
-
 .top-container   {
     display: inline-block;
     width: 500px;
@@ -12,16 +8,14 @@
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
-    margin-left: 80px;
-    position: absolute;
-    
+    margin-left: 20px;
+    position: left
     background-color:rgba(211,211,211,0.5);
 }
 
 .regular-text {
 	display: inline-block;
 	color: green;
-	font-family: Monospace;
 	font-size: 40px;
 	font-weight: 200;
 	font-stretch: extra-condensed;
@@ -35,14 +29,15 @@
 
 @media only screen and (max-width: 500px) {
     .top-container {
-        width: 200px;
+        width: 100%;
         text-align:  left;
      }
+
+     .
      .box {
     display: inline-block;
-    width: 200px;
+    width: 100%;
     margin: auto;
-    font-family: : Monospace; 
     font-size: 20px;
     text-align: left
     margin-top: 10px;
