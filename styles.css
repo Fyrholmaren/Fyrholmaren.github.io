@@ -6,17 +6,16 @@ h1{
 
 .middle-container   {
     display: inline-block;
-    width: 100%;
+    width: 60%;
     margin: auto;
     font: helvetica;
     font-size: 20px;
     text-align: center;
     margin-top: 150px;
     margin-bottom: 100px;
-    margin-right: 150px;
+    margin-right: 50px;
     margin-left: 150px;
-   
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(255,255,255, 0.3);
 
  }
 html {
