@@ -13,12 +13,12 @@
     background-color:rgba(211,211,211,0.5);
 }
 html {
-    background: url(scen7.jpeg) no-repeat center; 
+    background: url(scen6.jpg) no-repeat center; 
     border: 30px grey;
     padding: 35px;
     background-clip: content-box;
 }
-.header {
+.head {
     font: ariel;
 }
 .regular-text {
@@ -37,7 +37,7 @@ html {
 }
 @media only screen and (max-width: 500px) {
     .top-container {
-        font-size: 70px;
+        font-size: 10px;
         width: 100%;
         text-align:  left;
      }

@@ -52,11 +52,11 @@ html {
 
     background: url(scen2.jpg) no-repeat center; 
     border: 10px black;
-    padding: 35px;
+    padding: 200px;
     background-clip: content-box;
 }
 img {
     height: 100px;
     width: 75px;
-    border-radius: 50%;
+    border-radius: 80%;
 } 
